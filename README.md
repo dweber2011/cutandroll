@@ -1,4 +1,4 @@
 cutandroll
 ==========
 
-rolling thoughts and cutting out design
+cutting out thoughts and rolling out design
